@@ -1,0 +1,1 @@
+java app.test -cp quickfix:app/lib/*:.:org/*
